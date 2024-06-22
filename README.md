@@ -1,2 +1,2 @@
 # blender-python-basics
-Basics of blender python packages (bpy, bmesh)
+A friendly introduction about blender python packages (bpy, bmesh).
